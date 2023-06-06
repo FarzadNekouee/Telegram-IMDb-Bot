@@ -6,7 +6,7 @@ This is a Telegram bot that allows users to search for movie information, view i
 
 Check out the demo video to see the bot in action:
 
-[![Demo Video](https://img.youtube.com/vi/XOuSuK44wJs/0.jpg)](https://youtu.be/XOuSuK44wJs)
+[![Demo Video](https://img.youtube.com/vi/XOuSuK44wJs/maxresdefault.jpg)](https://youtu.be/XOuSuK44wJs)
 
 ## Features
 
