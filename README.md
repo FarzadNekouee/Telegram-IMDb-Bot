@@ -10,11 +10,11 @@ Check out the demo video to see the bot in action:
 
 ## Features
 
-- Inline movie search: Search for movies directly within the chat.
-- Detailed movie information: Get comprehensive details about movies including ratings, release date, genres, cast, and more.
-- Movie images and trailers: View a selection of movie images and watch trailers.
-- Personalized watchlist: Manage your own watchlist of movies.
-- Interactive user interface: Enjoy an intuitive and user-friendly bot experience.
+- **Inline movie search**: Search for movies directly within the chat.
+- **Detailed movie information**: Get comprehensive details about movies including ratings, release date, genres, and more.
+- **Movie images and trailers**: View a selection of movie images and watch trailers.
+- **Personalized watchlist**: Manage your own watchlist of movies.
+- **Interactive user interface**: Enjoy an intuitive and user-friendly bot experience.
 
 ## Getting Started
 
